@@ -28,12 +28,6 @@ Detecting bots which are acting like people is not easy and will likely get more
 **TODO: elaborate on common strategies for detecting TOS violations**  
 **TODO: expand on domain-specific strategies for detecting bots**
 
-## Exceptions
-
-There are times when someone may want to subject themself to **willful blindness**. For instance, a participant in a Turing test would want to not know before hand whether they were talking to a bot or human. An exception waiver might be a good idea for such cases. However, these waivers should be for specific interactions or events and not for things like general user agreements that apply for an extended duration.
-
-**TODO**
-
 ## Determing guilty parties
 
 **TODO**
@@ -43,3 +37,9 @@ There are times when someone may want to subject themself to **willful blindness
 Any bot that is proven to be acting without an appropriate label should be immediately shut down. Humans who may have been affected should be notified of the mislabeled activity.
 
 **TODO: expand on possible penalities**
+
+## Exceptions
+
+There are times when someone may want to subject themself to **willful blindness**. For instance, a participant in a Turing test would want to not know before hand whether they were talking to a bot or human. An exception waiver might be a good idea for such cases. However, these waivers should be for specific interactions or events and not for things like general user agreements that apply for an extended duration.
+
+**TODO**
