@@ -18,7 +18,7 @@ This is an idea for a law that I think should exist to protect humans: a law tha
 
 ## Justification
 
-Humans spend a lot of time these days accessing information and networks with many other humans who they do not know personally. In many cases it is impossible to tell if user activity is from real people or bot programs. Bot programs can be scaled up almost without limit, which means our communication networks and normal human intuitions about other humans in our communities are vulnerable to manipulation.
+Humans spend a lot of time these days accessing information and networks with many other humans who they do not know personally. In many cases it is difficult or impossible to tell if user activity is from real people or bot programs. Bot programs can be scaled up almost without limit, which means our communication networks and normal human intuitions about other humans in our communities are vulnerable to a new kind of manipulation.
 
 ## Detecting violations
 
