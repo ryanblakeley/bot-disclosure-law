@@ -5,7 +5,7 @@ This is an idea for a law that I think should exist to protect humans: a law tha
 ## Terminology
 
 - Bot: a program that acts like a human; a program that could be mistaken for a human or human behavior  
-- Label: username ends in 'bot' and is displayed at all times  
+- Label: a registered user name that ends in 'bot' and is displayed at all times  
 - Activity: something a human does that a bot may also do, including:
   - Natural language text
   - Natural language voice
