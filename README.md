@@ -32,6 +32,8 @@ Detecting bots which are acting like people is not easy and will likely get more
 
 There are times when someone may want to subject themself to **willful blindness**. For instance, a participant in a Turing test would want to not know before hand whether they were talking to a bot or human. An exception waiver might be a good idea for such cases. However, these waivers should be for specific interactions or events and not for things like general user agreements that apply for an extended duration.
 
+**TODO**
+
 ## Determing guilty parties
 
 **TODO**
