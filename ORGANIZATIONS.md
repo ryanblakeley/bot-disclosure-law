@@ -7,7 +7,7 @@ Organizations which may have something to say on this topic:
 
 Site: https://www.openmined.org/
 
-## Machine Intelligence Research Institute (MIRI)
+## Machine Intelligence Research Institute
 Site: https://intelligence.org/
 
 ## OpenAI
