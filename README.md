@@ -1,4 +1,4 @@
-# Bot Labeling Law
+# Bot Disclosure Law
 
 A law for requiring all bots to be labeled as bots.
 
