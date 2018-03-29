@@ -1,6 +1,6 @@
 # Bot Disclosure Law
 
-This is an idea for a law that I think should exist to protect humans: a law that requires all bots to be labeled as bots. Bot activity should always be labeled so that humans can easily distinguish it from human activity. Any service which stores user accounts, must ensure that any account owned or accessed by a bot program must have a user name that ends in 'bot'. All messages, comments, and audio clips must be labeled with the bot name. User activity statistics like views, upvotes, downvotes, and retweets must clearly designate the portion that is bots or not include bot activity in those statistics. Generative art, music, and videos must be clearly attributed with the bot name.
+This is an idea for a law that should exist to protect humans: a law that requires all bots to be labeled as bots. Bot activity should always be labeled so that humans can easily distinguish it from human activity. Any service which stores user accounts, must ensure that any account owned or accessed by a bot program must have a user name that ends in 'bot'. All messages, comments, and audio clips must be labeled with the bot name. User activity statistics like views, upvotes, downvotes, and retweets must clearly designate the portion that is bots or not include bot activity in those statistics. Generative art, music, and videos must be clearly attributed with the bot name.
 
 ## Terminology
 
