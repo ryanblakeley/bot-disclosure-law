@@ -22,7 +22,7 @@ Humans spend a lot of time these days accessing information and networks with ma
 
 ## Detecting violations
 
-Detecting bots which are acting like people is not easy and will likely get more difficult as we advance into the future. Companies already expect to establish terms of service and monitor for violations. Strategies for monitoring and moderating content vary widely.
+Detecting bots which are acting like people is not easy and will likely get more difficult as we advance into the future. Companies already implement terms of service agreements and monitor for violations. Strategies for monitoring and moderating content vary widely.
 
 **TODO: elaborate on common strategies for detecting TOS violations**
 
