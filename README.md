@@ -4,17 +4,17 @@ This is an idea for a law that I think should exist to protect humans: a law tha
 
 ## Terminology
 
-Bot: fake user activity; a program that could be mistaken for a human or human behavior  
-Label: username ends in 'bot' and is displayed at all times  
-Activity: something a human does that a bot may also do, including
-- Natural language text
-- Natural language voice
-- Video views
-- Upvotes
-- Downvotes
-- Retweets
-- Generative art
-- Auction bidding
+- Bot: a program that acts like a human; a program that could be mistaken for a human or human behavior  
+- Label: username ends in 'bot' and is displayed at all times  
+- Activity: something a human does that a bot may also do, including:
+  - Natural language text
+  - Natural language voice
+  - Video views
+  - Upvotes
+  - Downvotes
+  - Retweets
+  - Generative art
+  - Auction bidding
 
 ## Justification
 
@@ -22,12 +22,14 @@ Humans spend a lot of time these days accessing information and networks with ma
 
 ## Detecting violations
 
-Monitoring user activity for terms of service violations is already something companies do. Strategies for moderating content vary widely. Detecting bots that are pretending to be people is not easy and will likely get more difficult as we advance into the future. There is still a lot of work to be done to come up with solutions for detecting violations of the bot disclosure law.
+Detecting bots which are acting like people is not easy and will likely get more difficult as we advance into the future. Companies already expect to establish terms of service and monitor for violations. Strategies for monitoring and moderating content vary widely.
 
-**More ideas needed**
+**TODO: elaborate on common strategies for detecting TOS violations**
+
+**TODO: expand on domain-specific strategies for detecting bots**
 
 ## Penalties
 
-Any bot that is proven to be acting without an appropriate label should be immediately shut down. Humans who may be affected by having seen content that the bot posted should be notified of the mislabeled activity.
+Any bot that is proven to be acting without an appropriate label should be immediately shut down. Humans who may have been affected should be notified of the mislabeled activity.
 
-**More ideas needed**
+**TODO: expand on ideas for penalities**
