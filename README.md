@@ -9,6 +9,7 @@ This is an idea for a law that should exist to protect humans: a law that requir
 - Activity: something a human does that a bot may also do, including:
   - Natural language text
   - Natural language voice
+  - Gaming
   - Video views
   - Upvotes
   - Downvotes
@@ -26,6 +27,10 @@ Detecting bots which are acting like people is not easy and will likely get more
 
 **TODO: elaborate on common strategies for detecting TOS violations**  
 **TODO: expand on domain-specific strategies for detecting bots**
+
+## Exceptions
+
+There are times when someone may want to subject themself to **willful blindness**. For instance, a participant in a Turing test would want to not know before hand whether they were talking to a bot or human. An exception waiver might be a good idea for such cases. However, these waivers should be for specific interactions or events and not for things like general user agreements that apply for an extended duration.
 
 ## Determing guilty parties
 
