@@ -24,12 +24,15 @@ Humans spend a lot of time these days accessing information and networks with ma
 
 Detecting bots which are acting like people is not easy and will likely get more difficult as we advance into the future. Companies already implement terms of service agreements and monitor for violations. Strategies for monitoring and moderating content vary widely.
 
-**TODO: elaborate on common strategies for detecting TOS violations**
-
+**TODO: elaborate on common strategies for detecting TOS violations**  
 **TODO: expand on domain-specific strategies for detecting bots**
 
-## Penalties
+## Determing guilty parties
+
+**TODO**
+
+## Corrections and penalties
 
 Any bot that is proven to be acting without an appropriate label should be immediately shut down. Humans who may have been affected should be notified of the mislabeled activity.
 
-**TODO: expand on ideas for penalities**
+**TODO: expand on possible penalities**
