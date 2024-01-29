@@ -24,7 +24,7 @@ Humans rely on information and networks with many other humans who they do not k
 
 Humans are resilient and flexible thinkers. But the most intelligent thing we evolved to be able to deal with is other humans. Bot intelligence is a threat we aren't evolved to respond to appropriately.
 
-We not let powerful new agents be concealed as humans.
+We should not let powerful new agents be concealed as humans.
 
 ## Detecting violations
 
