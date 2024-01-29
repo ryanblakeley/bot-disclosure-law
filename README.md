@@ -9,9 +9,9 @@ A law that requires all bots to be labeled as bots. Bot activity should always b
 
 ## Terminology
 
-- Bot: a program that acts like a human; a program that could be mistaken for a human or human behavior  
-- Label: a registered user name that ends in 'bot' and is displayed at all times  
-- Activity: something a human does that a bot may also do, including:
+1. Bot: a program that acts like a human; a program that could be mistaken for a human or human behavior
+2. Label: a registered user name that ends in 'bot' and is displayed at all times
+3. Activity: something a human does that a bot may also do, including:
   - Natural language text
   - Natural language voice
   - Engagement statistics like views, upvotes, etc.
@@ -22,9 +22,9 @@ A law that requires all bots to be labeled as bots. Bot activity should always b
 
 Humans rely on information and networks with many other humans who they do not know personally. Our biggest networks are electronic, and in many cases it is difficult or impossible to tell if user activity is from real people or bots. Bots can be scaled up almost without limit, which means our communication networks and normal human intuitions about other humans are vulnerable to a new kind of manipulation.
 
-Humans are resilient and flexible thinkers. But the most intelligent thing we evolved to be able to deal with is other humans. Bot intelligence is a threat we aren't evolved to respond to appropriately. We haven't been in the presence of something more capable and non-biological.
+Humans are resilient and flexible thinkers. But the most intelligent thing we evolved to be able to deal with is other humans. Bot intelligence is a threat we aren't evolved to respond to appropriately.
 
-Bots are powerful and power can create good or bad situations. We should have the vigilance to not let powerful new agents be concealed as humans.
+We not let powerful new agents be concealed as humans.
 
 ## Detecting violations
 
