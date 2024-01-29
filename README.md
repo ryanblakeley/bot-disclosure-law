@@ -2,9 +2,9 @@
 
 A law that requires all bots to be labeled as bots. Bot activity should always be labeled so that humans can easily distinguish it from human activity.
 
-1. Any service which stores user accounts, must ensure that any account owned or accessed by a bot program must have a user name that ends in 'bot'.
+1. Any service which stores user accounts must ensure that any account owned or accessed by a bot must have a name label 'bot'.
 2. All messages, comments, and audio clips must be labeled with the bot name.
-3. User activity statistics like views, upvotes, downvotes, etc. must clearly designate the portion that is bots or not include bot activity in those statistics.
+3. User activity statistics like views, upvotes, downvotes, etc. must clearly indicate suspected bot participation or not include bot activity in those statistics.
 4. Generative art must be clearly attributed with the bot name.
 
 ## Terminology
@@ -20,22 +20,29 @@ A law that requires all bots to be labeled as bots. Bot activity should always b
 
 ## Justification
 
-Humans rely on information and networks with many other humans who they do not know personally. Our biggest networks are electronic, and in many cases it is difficult or impossible to tell if user activity is from real people or bots. Bots can be scaled up almost without limit, which means our communication networks and normal human intuitions about other humans are vulnerable to a new kind of manipulation.
+We should not let powerful artificial agents be concealed as humans.
 
-Humans are resilient and flexible thinkers. But the most intelligent thing we evolved to be able to deal with is other humans. Bot intelligence is a threat we aren't evolved to respond to appropriately.
+Humans rely on information and networks with many other humans who they do not know personally. Our biggest networks are electronic, and in many cases it is difficult or impossible to tell if user activity is from real people or bots.
 
-We should not let powerful new agents be concealed as humans.
+Bots can be scaled up almost without limit, which means our communication networks and normal intuitions about other humans are vulnerable to a new kind of manipulation.
+
+Humans are resilient and flexible thinkers. But the most intelligent thing we evolved to be able to deal with is other humans. Bot intelligence is a threat we aren't evolved to respond to appropriately, so we need safeguards and interventions.
 
 ## Detecting violations
 
-Detecting bots which are acting like people is not easy and will likely get more difficult as we advance into the future. Companies already implement terms of service agreements and monitor for violations. Strategies for monitoring and moderating content vary widely.
+Detecting bots which are acting like people is not easy and will likely get more difficult as we advance into the future. Companies have terms of service agreements and monitor for violations. Strategies for monitoring and moderating content vary widely.
 
-#### common strategies for detecting TOS violations
-#### domain-specific strategies for detecting bots
+Common strategies for detecting TOS violations.
+
+Domain-specific strategies for detecting bots.
 
 ## Determining guilty parties
 
-Platforms are liable.
+Platforms are assumed to be liable for activity on their networks.
+
+Corporate officers are assumed to be liable.
+
+Employees that act with malicious intent are liable.
 
 ## Corrections and penalties
 
