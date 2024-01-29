@@ -12,11 +12,11 @@ A law that requires all bots to be labeled as bots. Bot activity should always b
 1. Bot: a program that acts like a human; a program that could be mistaken for a human or human behavior
 2. Label: a registered user name that ends in 'bot' and is displayed at all times
 3. Activity: something a human does that a bot may also do, including:
-  - Natural language text
-  - Natural language voice
-  - Engagement statistics like views, upvotes, etc.
-  - Generative art
-  - Auction bidding
+- Natural language text
+- Natural language voice
+- Engagement statistics like views, upvotes, etc.
+- Generative art
+- Auction bidding
 
 ## Justification
 
